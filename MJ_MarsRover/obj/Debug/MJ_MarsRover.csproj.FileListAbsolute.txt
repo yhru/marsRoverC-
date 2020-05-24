@@ -1,0 +1,6 @@
+/home/lex/RiderProjects/MJ_MarsRover/MJ_MarsRover/bin/Debug/MJ_MarsRover.exe
+/home/lex/RiderProjects/MJ_MarsRover/MJ_MarsRover/bin/Debug/MJ_MarsRover.pdb
+/home/lex/RiderProjects/MJ_MarsRover/MJ_MarsRover/obj/Debug/MJ_MarsRover.csprojAssemblyReference.cache
+/home/lex/RiderProjects/MJ_MarsRover/MJ_MarsRover/obj/Debug/MJ_MarsRover.csproj.CoreCompileInputs.cache
+/home/lex/RiderProjects/MJ_MarsRover/MJ_MarsRover/obj/Debug/MJ_MarsRover.exe
+/home/lex/RiderProjects/MJ_MarsRover/MJ_MarsRover/obj/Debug/MJ_MarsRover.pdb
